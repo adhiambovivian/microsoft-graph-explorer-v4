@@ -129,7 +129,7 @@
     "eslint": "5.16.0",
     "immer": "8.0.1",
     "jest-fetch-mock": "3.0.3",
-    "node-fetch": "2.6.1",
+    "node-fetch": "2.6.7",
     "node-notifier": "8.0.1",
     "react-test-renderer": "16.8.3",
     "redux-logger": "3.0.6",
